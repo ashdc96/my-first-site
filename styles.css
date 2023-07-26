@@ -1,7 +1,18 @@
-p {color:#808000;}
-body {background-color: #FDF5E6;}
-label {color:#191970;}
-h1 {color:#191970;}
-img {border-radius: 50%;}
 p {
-    font size: 16px;}
+    color:#808000;
+}
+body {
+    background-color: #FDF5E6;
+}
+label {
+    color:#191970;
+}
+h1 {
+    color:#191970;
+}
+img {
+    border-radius: 50%;
+}
+p {
+    font size: 16px;
+}
